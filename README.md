@@ -21,3 +21,13 @@ CUT syntax bagian atas, dari <HTML> sampai pembuka body, dan dari 2 script bagia
 ## 4 Rename file build/index.html menjadi main.html
 
 Silakan rename file index.html menjadi main.html
+
+## 5 Jalankan server
+
+silakan jalankan server dengan cara
+
+```bash
+yarn start
+```
+
+Kenapa start ..? silakan check pada file **package.json**
