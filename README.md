@@ -18,6 +18,6 @@ yarn build
 
 CUT syntax bagian atas, dari <HTML> sampai pembuka body, dan dari 2 script bagian bawah, sampai penutup body, dan paste ke file bernama layouts/main.html. tambahkan template sintax `{{{body}}}` pada body html file tersebut.
 
-## Rename file build/index.html menjadi main.html
+## 4 Rename file build/index.html menjadi main.html
 
 Silakan rename file index.html menjadi main.html
